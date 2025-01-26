@@ -1,0 +1,26 @@
+.form-control{
+    width: 50%;
+    height:30px;
+    font-size:13px;
+    /* margin-top:0px; */
+}
+
+.heading{
+    color:white;
+    font-size:30px;
+}
+.form-label{
+    color:white;
+    font-size: 15px;
+}
+.inside-container{
+    margin-top:25px;
+}
+h1{
+    padding-top:15px;
+}
+.photo{
+    position: relative;
+    left:110px;
+    bottom:60px;
+}
